@@ -1,13 +1,12 @@
 ---
 layout: single
-title: Publications and Presentations
-permalink: /publications/
+title: Research
+permalink: /research/
 author_profile: true
 share: false
 ---
 
 ## Publications
-
 
 Breske, Ashleigh. (2018). “Politics of Repatriation: Formalizing Indigenous Repatriation Policy,” _International Journal of Cultural Property_, 25(3), 347-373.
 
@@ -24,3 +23,6 @@ Breske, Ashleigh. (2018). Review of Steven Salaita's Inter/Nationalism: Decoloni
 Breske, Ashleigh. (2016). Review of Gerald T. Conaty's (ed.) _We are Coming Home: Repatriation and the Restoration of Blackfoot Cultural Confidence_. Museums and Social Issues: A Journal of Reflective Discourse, Vol. 11(2): pgs. 158-160.
 
 
+## On-going research projects
+
+To be updated
