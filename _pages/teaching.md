@@ -11,9 +11,13 @@ comments: false
 ## Courses taught at Hollins University
 
 Introduction to International Studies
-GPS Senior Thesis
+
+Global Politics and Societies Senior Thesis
+
 Religious Freedom
+
 Globalizations and Local Responses
+
 Refugees and Resettlement
 
 ## Courses taught at Virginia Tech
