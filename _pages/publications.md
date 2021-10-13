@@ -6,16 +6,21 @@ author_profile: true
 share: false
 ---
 
-## Peer-reviewed journal articles
+## Publications
 
-**Le, H.T.K.**, Carrel, L.A. (2019). Happy Today, Satisfied Tomorrow: Emotion -- Satisfaction Dynamics in a Multi-week Transit User Smartphone Survey. _Transportation_. [https://doi.org/10.1007/s11116-019-10042-6](https://doi.org/10.1007/s11116-019-10042-6)
 
-**Le, H.T.K.**,  West, A., Quinn, F., Hankey, S. (2019). Advancing cycling among women: An exploratory study of North American cyclists. _Journal of Transport and Land Use_, 12(1), 355–374. [http://dx.doi.org/10.5198/jtlu.2019.1461](http://dx.doi.org/10.5198/jtlu.2019.1461) 
+Breske, Ashleigh. (2018). “Politics of Repatriation: Formalizing Indigenous Repatriation Policy,” _International Journal of Cultural Property_, 25(3), 347-373.
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. (2019). Have Walking and Bicycling Increased in the US? A 13-Year Longitudinal Analysis of Count Data in 13 US Metropolitan Areas. _Transportation Research Part D_. _69_, 329-345. [http://doi.org/10.1016/j.trd.2019.02.006](http://doi.org/10.1016/j.trd.2019.02.006)
+Breske, Ashleigh. (2018). "Biocolonialism: Examining Biopiracy, Inequality, and Power," _SPECTRA Journal_, 6(2), 58-73.
 
-**Le, H.T.K.**, Buehler, R., Hankey, S. (2018). Correlates of the Built Environment on Active Travel: Evidence from 20 US Metropolitan Areas. _Environmental Health Perspectives_ 126(7). [http://doi.org/10.1289/EHP3389](http://doi.org/10.1289/EHP3389)
+Breske, Ashleigh and Sonia Hirt. (2019). Entry on Jacobs, Jane. _Wiley-Blackwell Encyclopedia of Urban and Regional Studies_, A.M. Orum (ed.), 999-1004. Oxford and Malden: Wiley-Blackwell.
 
-Glasgow, T., Geller, S.E., **Le, H.T.K.**, Hankey, S. (2018). Travel Mood Scale: Development and validation of a survey to measure mood during transportation. _Transportation Research Part F_. _59_, 318–329. [http://doi.org/10.1016/j.trf.2018.09.014](http://doi.org/10.1016/j.trf.2018.09.014)
+Breske, Ashleigh. (2017). "Protecting Cultural Property and Heritage Sites During Conflict," In Stephenson, M. and L. Kirakosyan (eds.) _RE: Reflections and Explorations: A Forum for Deliberative Dialogue_. Blacksburg: VT Publishing.
+
+Breske, Ashleigh. (2017). "Biopiracy and the Threat to Indigenous Knowledge." In Stephenson, M. and L. Kirakosyan (eds.) _RE: Reflections and Explorations: A Forum for Deliberative Dialogue_. Blacksburg: VT Publishing.
+
+Breske, Ashleigh. (2018). Review of Steven Salaita's Inter/Nationalism: Decolonizing Native America and Palestine. _Review of Middle East Studies_, 52(2): pgs. 423-426.
+
+Breske, Ashleigh. (2016). Review of Gerald T. Conaty's (ed.) _We are Coming Home: Repatriation and the Restoration of Blackfoot Cultural Confidence_. Museums and Social Issues: A Journal of Reflective Discourse, Vol. 11(2): pgs. 158-160.
 
 
