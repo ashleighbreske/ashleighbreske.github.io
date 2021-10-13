@@ -1,3 +1,11 @@
+---
+layout: single
+title: About
+permalink: /about/
+author_profile: true
+share: false
+---
+
 SOME INTRO TEXT HERE
 
 ## Areas of Expertise
